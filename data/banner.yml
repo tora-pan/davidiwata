@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title: "David Iwata"
+subtitle: |
+  Author of <a target="_blank" href="#first">The Old Man and the Wolf</a>.
+content: |
+  Raised by my Japanese stepfather, after never knowing my real father, I struggled with a turbulent childhood that included arson, burglary, and substance abuse. By 18, I had two DUIs and frequent stays in juvenile hall, eventually leading to time in nine different prisons. My life changed in 2001 when I found faith in Jesus, marking the start of my clean and sober journey. Now, I’m focused on living a positive life, giving back to those who supported me during my darkest times, and sharing my story to inspire others.
+  
+button:
+  label: "Interested?"
+  link: "#first"
+image: "images/dad_cover.jpg"
