@@ -1,5 +1,5 @@
 ####################### Banner #########################
-style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+style: "banner style5 orient-center invert content-align-center image-position-right fullscreen onload-image-fade-up onload-content-fade-up"
 title: "David Iwata"
 subtitle: |
   Author of <a target="_blank" href="#first">The Old Man and the Wolf</a>.

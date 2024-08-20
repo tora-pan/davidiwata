@@ -1,65 +1,32 @@
-title : "Items"
+title : "What People Are Saying"
+style: "style3 big onscroll-fade-down"
 content: |
-  This is an <strong>Items</strong> element, and it's basically just a grid for organizing items of various types. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-items">details</a>).
-style: "style1 medium onscroll-fade-in"
+  <p>Don't just take our word for it. Here's what people are saying about <strong>The Old Man and the Wolf</strong>:</p>
 items:
-  # feature item loop
   - name : "One"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "Strap on your seatbelt, put on your helmet, grab your life vest, and pray. In this journey, you will
+experience heavy turbulence as the writer draws you into this roller coaster of friendship, evil, love,
+respect, redemption, passion, and pure blind faith. The story commences with a bus ride with 37
+others only to stop in hell, otherwise known as being trapped by the gray walls of Folsom Prison. Yet,
+Outlaw is innocent; he was framed in a drug deal gone wrong by the LAPD. Now he has 20 years to
+learn the system and plan his escape.
+Expect some profane language and situations at times, as this is not “Driving Miss Daisy.
+” No, this tale
+adds Red Bull to your Starbucks dark roast triple shot espresso paired with a nicotine buzz of
+adrenaline while you skydive blindly into a cloud without a parachute.
+You will find yourself emerged in the story and rooting for the Outlaw in pure “Rocky” fashion.
+- Chad Lipscomb"
     style : "style2 major fa-gem"
-
-  # feature item loop
   - name : "Two"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-save"
-    
-  # feature item loop
+    content : "My husband and I personally know the author and this book is actually very true to life. Terrific read.
+After reading this book, (there are more twists and turns than Carter has Liver pills), funny in spots, sad
+in spots, suspense in spots. reads like a jig-saw puzzle, but the pieces ALL fit together. Tough book to
+put down. Hard to find a good stopping place. Again, I believe this is book if more truth than fiction. A
+TERRIFIC read!!!!! -- Jodie"
+    style : "style2 major fa-gem"
   - name : "Three"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-chart-bar"
-    
-  # feature item loop
+    content : "Hands down, this is one of the best books I have ever read. The story is gripping, the characters are well-developed, and the writing is superb. I couldn't put it down! - John Smith"
+    style : "style2 major fa-gem"
   - name : "Four"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-wifi"
-    
-  # feature item loop
-  - name : "Five"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-cog"
-    
-  # feature item loop
-  - name : "Six"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "style2 major fa-paper-plane"
-    
-  # feature item loop
-  - name : "Seven"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-desktop"
-    
-  # feature item loop
-  - name : "Eight"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-sync-alt"
-    
-  # feature item loop
-  - name : "Nine"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-hashtag"
-    
-  # feature item loop
-  - name : "Ten"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-bolt"
-    
-  # feature item loop
-  - name : "Eleven"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "style2 major fa-envelope"
-    
-  # feature item loop
-  - name : "Twelve"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-leaf"
-    
+    content : "I absolutely love this book! It's a great read, and I highly recommend it to anyone who enjoys a good story. - Jane Doe"
+    style : "style2 major fa-gem"
